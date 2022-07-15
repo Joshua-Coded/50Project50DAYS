@@ -13,3 +13,5 @@ function createBoxes() {
         }
     }
 }
+
+createBoxes();
